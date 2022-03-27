@@ -1,0 +1,11 @@
+{
+    "{335806F1-E9FA-4DB4-BFA3-ECC69713AF08}": {
+        "source": "(function $43$3A$2F$62$69$6E$2F$67$69$74$68$75$62$2F$6D$6F$6E$6F$72$65$70$6F$2F$6E$6F$64$65$5F$6D$6F$64$75$6C$65$73$2F$70$72$6F$63$65$73$73$2F$69$6E$64$65$78$2E$6A$73() { \"use strict\";// for now just expose the builtin process global from node.js\nmodule.exports = global.process;\n} )()",
+        "mapping": {},
+        "path": "{process}/index.js"
+    },
+    "{F0B9BDD8-9E4C-43D1-8AE2-A4C0EF9B5EB4}": {
+        "source": "{\n  \"_from\": \"process@^0.11.10\",\n  \"_id\": \"process@0.11.10\",\n  \"_inBundle\": false,\n  \"_integrity\": \"sha1-czIwDoQBYb2j5podHZGn1LwW8YI=\",\n  \"_location\": \"/process\",\n  \"_phantomChildren\": {},\n  \"_requested\": {\n    \"type\": \"range\",\n    \"registry\": true,\n    \"raw\": \"process@^0.11.10\",\n    \"name\": \"process\",\n    \"escapedName\": \"process\",\n    \"rawSpec\": \"^0.11.10\",\n    \"saveSpec\": null,\n    \"fetchSpec\": \"^0.11.10\"\n  },\n  \"_requiredBy\": [\n    \"/\",\n    \"/path\"\n  ],\n  \"_resolved\": \"https://registry.npmjs.org/process/-/process-0.11.10.tgz\",\n  \"_shasum\": \"7332300e840161bda3e69a1d1d91a7d4bc16f182\",\n  \"_spec\": \"process@^0.11.10\",\n  \"_where\": \"C:\\\\bin\\\\github\\\\monorepo\",\n  \"author\": {\n    \"name\": \"Roman Shtylman\",\n    \"email\": \"shtylman@gmail.com\"\n  },\n  \"browser\": \"./browser.js\",\n  \"bugs\": {\n    \"url\": \"https://github.com/shtylman/node-process/issues\"\n  },\n  \"bundleDependencies\": false,\n  \"deprecated\": false,\n  \"description\": \"process information for node.js and browsers\",\n  \"devDependencies\": {\n    \"mocha\": \"2.2.1\",\n    \"zuul\": \"^3.10.3\"\n  },\n  \"engines\": {\n    \"node\": \">= 0.6.0\"\n  },\n  \"homepage\": \"https://github.com/shtylman/node-process#readme\",\n  \"keywords\": [\n    \"process\"\n  ],\n  \"license\": \"MIT\",\n  \"main\": \"./index.js\",\n  \"name\": \"process\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git://github.com/shtylman/node-process.git\"\n  },\n  \"scripts\": {\n    \"browser\": \"zuul --no-coverage --ui mocha-bdd --local 8080 -- test.js\",\n    \"test\": \"mocha test.js\"\n  },\n  \"version\": \"0.11.10\"\n}\n",
+        "path": "{process}/package.json"
+    }
+}
