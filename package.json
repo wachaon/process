@@ -1,0 +1,14 @@
+{
+  "name": "proc",
+  "version": "0.0.1",
+  "description": "process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "process"
+  ],
+  "author": "wachaon",
+  "license": "MIT"
+}
