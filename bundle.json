@@ -1,0 +1,22 @@
+{
+  "{1465060A-2EB6-4A8A-ABFA-BA9403A9AD1F}": {
+    "source": "{\n  \"name\": \"proc\",\n  \"version\": \"0.0.1\",\n  \"description\": \"process\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"process\"\n  ],\n  \"author\": \"wachaon\",\n  \"license\": \"MIT\"\n}\n",
+    "mapping": {},
+    "path": "{process}/package.json"
+  },
+  "{83EB0793-86D4-4365-8EBA-8838A5F3ED6F}": {
+    "source": "module.exports = process",
+    "mapping": {},
+    "path": "{process}/index.js"
+  },
+  "{63443A27-0054-43F7-ADBB-759969FE42C7}": {
+    "source": "MIT License\n\nCopyright (c) 2023 wachaon\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+    "mapping": {},
+    "path": "{process}/LICENSE"
+  },
+  "{FB7D7C3D-CD0C-460D-8989-875916F9A526}": {
+    "source": "# process\r\nprocess\r\n",
+    "mapping": {},
+    "path": "{process}/README.md"
+  }
+}
